@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/bin/Debug/DocumentMerger2.exe
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/bin/Debug/DocumentMerger2.pdb
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/obj/x86/Debug/DocumentMerger2.csprojAssemblyReference.cache
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/obj/x86/Debug/DocumentMerger2.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/obj/x86/Debug/DocumentMerger2.exe
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/obj/x86/Debug/DocumentMerger2.pdb

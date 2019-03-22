@@ -1,0 +1,5 @@
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/bin/Release/DocumentMerger2.exe
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/obj/x86/Release/DocumentMerger2.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Projects/DocumentMerger2/DocumentMerger2/obj/x86/Release/DocumentMerger2.exe
+/Users/JohnWilliams/Documents/IT2040/DocumentMerger2/DocumentMerger2/bin/Release/DocumentMerger2.exe
+/Users/JohnWilliams/Documents/IT2040/DocumentMerger2/DocumentMerger2/obj/x86/Release/DocumentMerger2.csproj.CoreCompileInputs.cache
